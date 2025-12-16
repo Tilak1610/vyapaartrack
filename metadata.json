@@ -1,0 +1,7 @@
+{
+  "name": "VyapaarTrack",
+  "description": "A simple, mobile-first expense tracking dashboard for multi-business operations. Features AI-powered receipt scanning for quick entry and an accountant review workflow.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
